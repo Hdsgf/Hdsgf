@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hdsgf
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Asp.Net Core; C#;
+- 🌱 I’m currently learning Asp.Net C#; Core; Avalonia;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg: @ivtop22
 - 😄 Pronouns: ....
